@@ -4,5 +4,5 @@ The application provides a user-friendly interface for citizens, municipal offic
 
 # Technologies Used 
 Frontend: HTML, CSS, JavaScript (with jQuery and Bootstrap)
-Backend: Java (with Spring Framework)
+Backend: Java Core with Servlet 
 Database: SQL (with MySQL)
